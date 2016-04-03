@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JumbleTextApplicationActivity!</string>
+    <string name="app_name">JumbleTextApplication</string>
+	<string name="string1">Jumble Text</string>
+</resources>
